@@ -7,7 +7,7 @@ class Numbercount extends Component {
     render() {
         return (
             <div className="number-count">
-                <h1>Number Count Animation</h1>
+                <h1>Number Count Animation s</h1>
                 <CountUp
                     start={-875.039}
                     end={160527.012}
@@ -40,7 +40,7 @@ class Numbercount extends Component {
                     <Icon name='cart' className="icon" />
                     <br></br>
                     <Progress percent={70} size='tiny' color='brown' />
-                    <h4>Total order</h4>
+                    <h4>Total order </h4>
                     <p>+70.2<span><Icon name="arrow up" size="tiny" /></span></p>
                 </div>
             </div>
